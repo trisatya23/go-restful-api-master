@@ -1,8 +1,8 @@
 package middleware
 
 import (
-	"github.com/aronipurwanto/go-restful-api/model/web"
 	"github.com/gofiber/fiber/v2"
+	"github.com/trisatya23/go-restful-api-master/model/web"
 )
 
 type AuthMiddleware struct{}

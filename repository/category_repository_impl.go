@@ -3,7 +3,7 @@ package repository
 import (
 	"context"
 	"errors"
-	"github.com/aronipurwanto/go-restful-api/model/domain"
+	"github.com/trisatya23/go-restful-api-master/model/domain"
 	"gorm.io/gorm"
 )
 

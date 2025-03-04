@@ -1,10 +1,10 @@
 package controller
 
 import (
-	"github.com/aronipurwanto/go-restful-api/exception"
-	"github.com/aronipurwanto/go-restful-api/model/web"
-	"github.com/aronipurwanto/go-restful-api/service"
 	"github.com/gofiber/fiber/v2"
+	"github.com/trisatya23/go-restful-api-master/exception"
+	"github.com/trisatya23/go-restful-api-master/model/web"
+	"github.com/trisatya23/go-restful-api-master/service"
 	"strconv"
 )
 

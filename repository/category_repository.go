@@ -2,7 +2,7 @@ package repository
 
 import (
 	"context"
-	"github.com/aronipurwanto/go-restful-api/model/domain"
+	"github.com/trisatya23/go-restful-api-master/model/domain"
 )
 
 type CategoryRepository interface {

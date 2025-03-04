@@ -3,12 +3,12 @@ package service
 import (
 	"context"
 	"errors"
-	"github.com/aronipurwanto/go-restful-api/exception"
-	"github.com/aronipurwanto/go-restful-api/helper"
-	"github.com/aronipurwanto/go-restful-api/model/domain"
-	"github.com/aronipurwanto/go-restful-api/model/web"
-	"github.com/aronipurwanto/go-restful-api/repository"
 	"github.com/go-playground/validator/v10"
+	"github.com/trisatya23/go-restful-api-master/exception"
+	"github.com/trisatya23/go-restful-api-master/helper"
+	"github.com/trisatya23/go-restful-api-master/model/domain"
+	"github.com/trisatya23/go-restful-api-master/model/web"
+	"github.com/trisatya23/go-restful-api-master/repository"
 	"gorm.io/gorm"
 )
 

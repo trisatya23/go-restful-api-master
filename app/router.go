@@ -1,9 +1,9 @@
 package app
 
 import (
-	"github.com/aronipurwanto/go-restful-api/controller"
-	"github.com/aronipurwanto/go-restful-api/middleware"
 	"github.com/gofiber/fiber/v2"
+	"github.com/trisatya23/go-restful-api-master/controller"
+	"github.com/trisatya23/go-restful-api-master/middleware"
 )
 
 func NewRouter(app *fiber.App, categoryController controller.CategoryController) {
